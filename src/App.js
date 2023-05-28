@@ -19,7 +19,7 @@ const App = () => {
     return (
 
       <>
-       <h1>FrostCast</h1>
+       <h1>FrostCast Weather</h1>
         <div className="main-container">
            
             <input type="text"className="search"placeholder="Search..."value={query}onChange={(e) => setQuery(e.target.value)}onKeyPress={search}/>
