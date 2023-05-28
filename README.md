@@ -1,5 +1,6 @@
-# App Demo:
-https://react-js-stopwatch.vercel.app/
+# [Live Demo](https://simple-weather-roycua.vercel.app)
+
+# FrostCast Weather App
 
 # Getting Started with Create React App
 
